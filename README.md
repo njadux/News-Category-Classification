@@ -14,3 +14,9 @@ This project uses the **AG News dataset** to build a text classification pipelin
 **Python, scikit-learn, TensorFlow, spaCy, matplotlib, seaborn**
 
 ## 🗂️ Structure
+
+news-category-classification/
+├── data/ → dataset files
+├── notebooks/ → Colab/Jupyter notebook
+├── src/ → scripts for processing, training, visualization
+├── models/ → saved models and vectorizer
